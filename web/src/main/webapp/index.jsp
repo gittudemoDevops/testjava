@@ -15,5 +15,6 @@
   <p>
     This is a very simple example web page on a JSP.
   </p>
+  <h3> changes made for project2 </h3>
 </body>
 </html>
